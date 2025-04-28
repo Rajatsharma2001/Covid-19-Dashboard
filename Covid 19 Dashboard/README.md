@@ -9,4 +9,4 @@ The topics covered are:
 3. Third section is news section. It contains latest news related to Covid19.
     This section is made using HTML, CSS and JS.
     
-The webpage can be viewed by going to link: https://hardcore-pike-1bd3f8.netlify.app/
+
